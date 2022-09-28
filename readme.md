@@ -83,7 +83,7 @@ Check out our [FAQs](https://github.com/nylas-samples/nylas-hacktoberfest-2022/b
 - [Send and Read Emails with PHP](https://github.com/nylas-samples/php_send_and_read_emails): Read or Send an email with Nylas REST APIs using PHP!
 
 ## Contact API samples
-
+- [create-contacts-from-emails](https://github.com/nylas-samples/nylas-hacktoberfest-2022/code-samples/contact/node/create-contacts-from-emails): Create contacts from your emails using Nylas Node SDK!
 - [contact-list-json-data](https://github.com/nylas-samples/contact-list-json-data): Use JSON data with the Contact List Component!
 
 ## Calendar and Events API samples
